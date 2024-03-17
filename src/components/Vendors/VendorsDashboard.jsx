@@ -6,6 +6,7 @@ export default function VendorsDashboard() {
     <div>
 
 <div>VendorsDashboard</div>
+
     </div>
     
   )
